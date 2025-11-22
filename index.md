@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Hello World
+date: 11/22/2025
 ---
 
-Hello world !
